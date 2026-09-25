@@ -316,10 +316,6 @@ Add markdown files to `backend/data/knowledge_base/`:
 
 This is a portfolio project for demonstration purposes.
 
-## 👤 Author
-
-Built as a portfolio project to demonstrate full-stack AI engineering skills.
-
 ---
 
 **Note**: This project is a portfolio prototype and does not integrate with actual advertising platforms or process real payments.
